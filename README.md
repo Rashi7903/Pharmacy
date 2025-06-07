@@ -108,6 +108,9 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 - Admin login details can only be changed using the database server.
 - For major changes, please open an *issue* first to discuss what you would like to change.
 
+## Live page
+ https://rashi7903.github.io/Pharmacy/
+
 *Feel free to contact for any further queries.*
 
 
