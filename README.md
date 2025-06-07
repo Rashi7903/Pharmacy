@@ -110,6 +110,7 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 
 ## Live page
  https://rashi7903.github.io/Pharmacy/
+http://localhost/pharmacy/mainpage.php
 
 *Feel free to contact for any further queries.*
 
